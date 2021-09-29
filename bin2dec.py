@@ -31,4 +31,4 @@ if __name__ == "__main__":
     
 
 
-#hola a todos
+patata = False
