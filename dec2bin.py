@@ -1,4 +1,4 @@
-#Hola, soy david y estoy modificando esto xd
+#Hola, soy david y estoy modificando esto jajajaja equisde omegalul
 # -----------# ------------------------------------------------------
 # Convierte un número decimal positivo a binario usando un 
 #   determinado número de bits.
